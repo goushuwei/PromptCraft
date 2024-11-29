@@ -23,15 +23,16 @@ Additionally, we encourage community engagement by sharing recommended prompts a
 
 Here's a simple workflow of how **PromptCraft** improves prompt crafting   &&  Watch how **PromptCraft** refines ChatGPT responses:
 
+---
 
-# 如何提高 ChatGPT 返回的准确性 (How to Improve ChatGPT's Response Accuracy)
+### 如何提高 ChatGPT 返回的准确性 (How to Improve ChatGPT's Response Accuracy)
 
 **Q:** 我希望提高 ChatGPT 返回的正确性。你有什么建议吗？  
 **A:** 要提高 ChatGPT 的回答准确性，首先你需要明确地提问。给出清晰的问题，并尽量提供足够的上下文信息。你也可以通过分步提问来获得更精确的回答。
 
 ---
 
-### 1. 问题描述要清晰 (Be Clear in Your Question)
+#### 1. 问题描述要清晰 (Be Clear in Your Question)
 
 **Q:** 我可以怎么确保我的问题更加清晰呢？  
 **A:** 很好的问题！确保问题简洁且明确。避免使用模糊词汇，尽量让问题有具体的目标。比如，改“告诉我一些有趣的历史”成“简要概述二战的主要原因”。
@@ -42,7 +43,7 @@ Here's a simple workflow of how **PromptCraft** improves prompt crafting   &&  W
 
 ---
 
-### 2. 提供足够的上下文 (Provide Enough Context)
+#### 2. 提供足够的上下文 (Provide Enough Context)
 
 **Q:** 我该如何在提问时提供更多背景信息呢？  
 **A:** 提供背景信息可以帮助 ChatGPT 更好地理解你的问题。例如，在询问某个科学原理时，提供相关背景会让回答更精确。
@@ -53,7 +54,7 @@ Here's a simple workflow of how **PromptCraft** improves prompt crafting   &&  W
 
 ---
 
-### 3. 角色扮演技巧 (Use Role-Playing Techniques)
+#### 3. 角色扮演技巧 (Use Role-Playing Techniques)
 
 **Q:** 角色扮演能如何帮助提高答案的准确性？  
 **A:** 通过让 ChatGPT 扮演专家，可以让答案更专业且针对性强。如果你需要详细的专业知识，可以让它以某个领域的专家身份回答。
@@ -64,7 +65,7 @@ Here's a simple workflow of how **PromptCraft** improves prompt crafting   &&  W
 
 ---
 
-### 4. 提供示范 (Provide Examples)
+#### 4. 提供示范 (Provide Examples)
 
 **Q:** 如何通过提供示范来让 ChatGPT 更好地理解我的问题？  
 **A:** 你可以给出一两个示范，告诉 ChatGPT 你期望的答案格式。这会让回答更加符合你的需求。
@@ -77,7 +78,7 @@ Here's a simple workflow of how **PromptCraft** improves prompt crafting   &&  W
 
 ---
 
-### 5. 分解复杂问题 (Break Down Complex Questions)
+#### 5. 分解复杂问题 (Break Down Complex Questions)
 
 **Q:** 当问题太复杂时，我该如何分解它？  
 **A:** 如果问题太复杂，最好将其分解成几个小问题逐一提问。这样，ChatGPT 更容易提供精准的答案。
@@ -90,7 +91,7 @@ Here's a simple workflow of how **PromptCraft** improves prompt crafting   &&  W
 
 ---
 
-### 6. 反馈与迭代 (Feedback and Iteration)
+#### 6. 反馈与迭代 (Feedback and Iteration)
 
 **Q:** 如果 ChatGPT 的回答不准确，我该如何处理？  
 **A:** 你可以在收到回答后，给出具体反馈，并要求进一步修改或补充信息。通过这种方式，你可以迭代地改进回答。
@@ -108,5 +109,16 @@ By optimizing your prompts and providing clear descriptions and relevant backgro
 
 ---
 
-通过这种方式，GitHub 上的展示将会是清晰的对话式内容，同时避免了过于冗长的标题，使得阅读体验更加顺畅。
 
+
+## 支持与打赏 (Support & Donations)
+
+如果您喜欢这个项目并希望支持我们，您可以通过以下链接或扫描收款码进行打赏。您的支持将帮助我们不断优化和更新 **PromptCraft**。
+
+If you enjoy this project and would like to support us, you can donate through the link below or by scanning the QR code. Your support will help us continuously improve and update **PromptCraft**.
+
+[点击这里支持我们](#)  <!-- 打赏链接 -->
+[Support us here](#)  <!-- Donation link in English -->
+
+![收款码](https://path_to_your_image.png)  <!-- 收款码图片，替换为您的图片链接 -->
+![QR Code](https://path_to_your_image.png)  <!-- QR Code image -->
