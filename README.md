@@ -117,8 +117,5 @@ By optimizing your prompts and providing clear descriptions and relevant backgro
 
 If you enjoy this project and would like to support us, you can donate through the link below or by scanning the QR code. Your support will help us continuously improve and update **PromptCraft**.
 
-[点击这里支持我们](#)  <!-- 打赏链接 -->
-[Support us here](#)  <!-- Donation link in English -->
 
 ![收款码](https://github.com/goushuwei/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2.jpg)  <!-- 收款码图片，替换为您的图片链接 -->
-![QR Code](https://path_to_your_image.png)  <!-- QR Code image -->
